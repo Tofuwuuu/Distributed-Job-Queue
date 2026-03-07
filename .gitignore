@@ -1,0 +1,21 @@
+# Env
+.env
+.env.local
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+
+# Node
+node_modules
+dist
+
+# IDE
+.idea
+.vscode
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
